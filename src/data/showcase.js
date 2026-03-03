@@ -1,4 +1,20 @@
-export default [
+export default [Phase 1: MVP
+├── Set up API connection (Jikan/AniList)
+├── Build search functionality
+├── Create detail pages for anime/manga
+└── Basic responsive design
+
+Phase 2: Features
+├── User authentication
+├── Personal watchlists
+├── Rating & review system
+└── Recommendation engine
+
+Phase 3: Polish
+├── Advanced filters & sorting
+├── Community features
+├── Mobile app (optional)
+└── Performance optimization
     {
         title: "Anime Flow",
         summary: "Discover anime via a flowchart",
